@@ -1,12 +1,20 @@
-# React + Vite
+Reqres User Management App - Overview
+The Reqres User Management App is a React-based web application that integrates with the Reqres API for user authentication, user listing, and user management (edit & delete). It demonstrates modern web development best practices, including API handling, state management, routing, and responsive UI design. The app provides a secure login system, fetches paginated user data, and allows users to edit or delete entries with real-time updates.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built with React.js, Axios, and React Router, this project follows a clean and modular structure with separate components for Login, User List, and User Editing. The authentication flow stores the token in local storage, ensuring session persistence. The Users List is displayed in a structured layout with pagination or lazy loading, and CRUD operations allow editing and deleting users dynamically. Success/error messages enhance user feedback.
 
-Currently, two official plugins are available:
+This project is ideal for portfolio enhancement as it showcases real-world API interaction and efficient state management. It follows scalable, maintainable coding practices with a responsive and professional UI. Future enhancements like search, sorting, and additional UI improvements can be easily integrated. 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+
+
+
+
+
+
+
